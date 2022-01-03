@@ -1,5 +1,5 @@
 # Sites Importantes
-Links de sites para se dar uma olhada
+Links de sites para servir de apoio quando necessário
 
 - https://linuxize.com/post/how-to-install-gcc-compiler-on-ubuntu-18-04/
 
