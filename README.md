@@ -18,3 +18,7 @@ Links de sites para servir de apoio quando necessário
 - https://www.hostgator.com.br/blog/comando-linux-ping/
 
 - https://blog.pantuza.com/artigos/o-que-sao-e-como-funcionam-os-sockets
+
+- https://www.geeksforgeeks.org/socket-programming-cc/
+
+- https://www.bogotobogo.com/cplusplus/sockets_server_client.php
