@@ -12,3 +12,7 @@ Links de sites para servir de apoio quando necessário
 - https://docs.microsoft.com/pt-br/cpp/cpp/smart-pointers-modern-cpp?view=msvc-170
 
 - https://pt.slideshare.net/ivanricarte/ricarte-ft2014
+
+- https://guialinux.uniriotec.br/ping/
+
+- https://www.hostgator.com.br/blog/comando-linux-ping/
