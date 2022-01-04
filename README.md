@@ -19,6 +19,10 @@ Links de sites para servir de apoio quando necessário
 
 - https://blog.pantuza.com/artigos/o-que-sao-e-como-funcionam-os-sockets
 
+- https://www.treinaweb.com.br/blog/uma-introducao-a-tcp-udp-e-sockets
+
+- https://www.inf.pucrs.br/~gustavo/disciplinas/sd/material/slides_sockets.pdf
+
 - https://www.geeksforgeeks.org/socket-programming-cc/
 
 - https://www.bogotobogo.com/cplusplus/sockets_server_client.php
