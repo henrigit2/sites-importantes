@@ -36,3 +36,5 @@ Links de sites para servir de apoio quando necessário
 - https://www.dltec.com.br/blog/cisco/protocolo-icmp-ping-e-traceroute/
 
 - http://www.inf.ufes.br/~zegonc/material/Redes_de_Computadores/O%20Protocolo%20ICMP.pdf
+
+- https://pubs.opengroup.org/onlinepubs/7908799/xns/bind.html
