@@ -32,3 +32,7 @@ Links de sites para servir de apoio quando necessário
 - https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
 - https://www.treinaweb.com.br/blog/programacao-de-sockets-em-php/
+
+- https://www.dltec.com.br/blog/cisco/protocolo-icmp-ping-e-traceroute/
+
+- http://www.inf.ufes.br/~zegonc/material/Redes_de_Computadores/O%20Protocolo%20ICMP.pdf
