@@ -24,3 +24,5 @@ Links de sites para servir de apoio quando necessário
 - https://www.bogotobogo.com/cplusplus/sockets_server_client.php
 
 - https://github.com/iputils/iputils
+
+- https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
