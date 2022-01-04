@@ -22,3 +22,5 @@ Links de sites para servir de apoio quando necessário
 - https://www.geeksforgeeks.org/socket-programming-cc/
 
 - https://www.bogotobogo.com/cplusplus/sockets_server_client.php
+
+- https://github.com/iputils/iputils
