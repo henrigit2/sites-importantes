@@ -38,3 +38,5 @@ Links de sites para servir de apoio quando necessário
 - http://www.inf.ufes.br/~zegonc/material/Redes_de_Computadores/O%20Protocolo%20ICMP.pdf
 
 - https://pubs.opengroup.org/onlinepubs/7908799/xns/bind.html
+
+- https://www.binarytides.com/winsock-icmp-ping-flood-code-c-sockets/
