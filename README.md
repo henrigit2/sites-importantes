@@ -50,6 +50,8 @@ Links de sites para servir de apoio quando necessário
 
 - https://pubs.opengroup.org/onlinepubs/7908799/xns/bind.html
 
+## Ping with sockets and protocol ICMP
+
 - https://www.binarytides.com/winsock-icmp-ping-flood-code-c-sockets/
 
 - https://www.ppgia.pucpr.br/~jamhour/Download/pub/Pratica/ProgTCPIP/C/RAW/ping.c
