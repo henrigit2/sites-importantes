@@ -1,7 +1,7 @@
 # Sites Importantes
 Links de sites para servir de apoio quando necessário
 
-## Install Compiler gnu and g++ in Linux-ubuntu
+## Install Compiler GNU and g++ in Linux-ubuntu
 
 - https://linuxize.com/post/how-to-install-gcc-compiler-on-ubuntu-18-04/
 
