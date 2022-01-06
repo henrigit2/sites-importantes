@@ -15,17 +15,6 @@ Links de sites para servir de apoio quando necessário
 
 - https://docs.microsoft.com/pt-br/cpp/cpp/smart-pointers-modern-cpp?view=msvc-170
 
-## Outros
-
-- https://pt.slideshare.net/ivanricarte/ricarte-ft2014
-
-- https://guialinux.uniriotec.br/ping/
-
-- https://www.hostgator.com.br/blog/comando-linux-ping/
-
-- https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
-
-
 ## Sockets
 
 - https://blog.pantuza.com/artigos/o-que-sao-e-como-funcionam-os-sockets
@@ -57,3 +46,13 @@ Links de sites para servir de apoio quando necessário
 - https://www.ppgia.pucpr.br/~jamhour/Download/pub/Pratica/ProgTCPIP/C/RAW/ping.c
 
 - https://www.geeksforgeeks.org/ping-in-c/
+
+## Outros
+
+- https://pt.slideshare.net/ivanricarte/ricarte-ft2014
+
+- https://guialinux.uniriotec.br/ping/
+
+- https://www.hostgator.com.br/blog/comando-linux-ping/
+
+- https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
