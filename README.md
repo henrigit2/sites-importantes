@@ -7,6 +7,8 @@ Links de sites para servir de apoio quando necessário
 
 - https://linuxconfig.org/how-to-install-g-the-c-compiler-on-ubuntu-18-04-bionic-beaver-linux
 
+## Smart Pointers
+
 - https://www.journaldev.com/37481/smart-pointers-in-c-plus-plus
 
 - https://docs.microsoft.com/pt-br/cpp/cpp/smart-pointers-modern-cpp?view=msvc-170
