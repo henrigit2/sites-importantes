@@ -1,5 +1,5 @@
 # Sites Importantes
-Links de sites para servir de apoio quando necessário
+Sites de apoio
 
 ## Install Compiler GNU and g++ in Linux-ubuntu
 
