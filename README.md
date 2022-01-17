@@ -56,3 +56,5 @@ Sites de apoio
 - https://www.hostgator.com.br/blog/comando-linux-ping/
 
 - https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+-https://medium.com/@ewertonferreira/testes-unit%C3%A1rios-com-o-google-test-59203b932e0f
